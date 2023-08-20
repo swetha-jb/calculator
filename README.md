@@ -1,4 +1,5 @@
-# About CalCulator 
+# CalCulator
+## Overview
 
 CalCulator is a modern, aesthetic user interface implemented purely in Python using a customization of the Tkinter library in Python. This application emulates a calculator, enabling users to perform complex algebraic, vector, and calculus computations. It also features capabilities to solve complex word problems using the ChatGPT API as well as graph and solve specified formulas.  
 
