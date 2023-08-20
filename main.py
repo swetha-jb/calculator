@@ -1,7 +1,7 @@
 """
 File: calculator.py
 Author: Brooke Mattos
-Date: December 16, 2022
+Date: December 16, 2022 
 Description: 
     Modern, aesthetic ui with multiple page tkinkter gui implementation.
     Emulates a calculator, calculating user inputted, complex algebraic and calculus computations.
