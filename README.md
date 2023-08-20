@@ -14,7 +14,7 @@ To run the code on your local machine, follow these steps:
    ```
 **2. Install required dependencies and modules:**
    ```bash
-   pip install requirements.txt
+   pip install -r requirements.txt
    ```
 **3. Get OpenAI API Key (Optional)**  
 
