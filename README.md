@@ -9,7 +9,7 @@ To run the code on your local machine, follow these steps:
 
 **1. Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/calculator-project.git
+   git clone "https://github.com/brmattos/CalCulator.git"
    ```
 **2. Install required dependencies and modules:**
    ```bash
