@@ -1,5 +1,4 @@
 customtkinter
 sympy
-scipy
-dotenv
+python-dotenv
 openai
