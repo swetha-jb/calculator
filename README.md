@@ -21,8 +21,8 @@ To run the code on your local machine, follow these steps:
 The word problem solution feature utilizes the OpenAi API and therefore an api key.  
 If you would like to try the feature, you can find that information here: [OpenAI API key](https://platform.openai.com/account/api-keys)  
 
-## Features  
 ---
+## Features  
 ### *Calculator Page:*
 
 - The calculator page provides a user-friendly interface for performing various mathematical calculations.
