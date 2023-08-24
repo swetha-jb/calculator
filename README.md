@@ -22,6 +22,7 @@ The word problem solution feature utilizes the OpenAi API and therefore an api k
 If you would like to try the feature, you can find that information here: [OpenAI API key](https://platform.openai.com/account/api-keys)  
 
 ## Features  
+---
 ### *Calculator Page:*
 
 - The calculator page provides a user-friendly interface for performing various mathematical calculations.
@@ -56,4 +57,4 @@ If you would like to try the feature, you can find that information here: [OpenA
 - Implements a scrollable textbox to see the reasoning and calculations behind the final calculation by the AI generated solution.
 
 ![image](https://github.com/brmattos/CalCulator/assets/140926908/b8307c36-9011-4d4c-94b4-7aafb3075670)
-
+---
