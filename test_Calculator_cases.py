@@ -232,4 +232,3 @@ def test_create_special_buttons(calculator):
 def test_calculator_run(calculator):
     calculator.run()
     calculator.window.mainloop.assert_called_once()
-```
